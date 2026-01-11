@@ -1,0 +1,33 @@
+.KeyBox {
+  border-radius: 3px;
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+.Row {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.symbol {
+  font-size: 10px;
+  color: #8c8c8c;
+  margin: 2px;
+  height:14px;
+  width: 14px;
+  text-align: center;
+}
+
+.body {
+  font-size: 22px;
+  height: 40px;
+  width:20px;
+  text-align: center;
+}
